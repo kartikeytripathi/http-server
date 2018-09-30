@@ -2,7 +2,7 @@ import java.io.IOException;
 import java.net.ServerSocket; 
 import java.net.Socket; 
 import java.util.Date;  
-
+/* A Simple HTTP Server created By Kartikey Tripathi */
 public class SimpleHTTPServer 
 { 
 	public static void main(String args[]) throws IOException 
